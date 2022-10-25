@@ -33,7 +33,6 @@ body{
 
 .menu.active li{
     transform: rotate(calc(360deg / 8 * var(--i)));
-
 }
 
 .menu li a{
